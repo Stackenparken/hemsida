@@ -9,3 +9,7 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# build settings
+markdown: kramdown
+remote_theme: daattali/beautiful-jekyll
